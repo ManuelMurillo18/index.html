@@ -1,0 +1,40 @@
+nav {
+    text-align: center;
+  }
+  .bouton {
+    display: inline-block;
+    background-color: rgb(221, 5, 5); 
+    color: rgb(253, 250, 250);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .bouton>ul {
+    list-style: none;
+    padding: 0px;
+  }
+  .bouton>ul>li:hover {
+    background-color:darkorchid;
+  }
+  p{
+    text-align: center;
+  }
+
+  body{
+    background-color: rgb(7, 7, 7);
+    color:red;
+    text-align: center;
+  }
+  table,
+td,
+tr
+{
+    border: 7px whitesmoke ridge;
+    color: white;
+    font-size: 125%;
+    padding: 20px;
+}
+a{
+  color: white;
+}
+  
